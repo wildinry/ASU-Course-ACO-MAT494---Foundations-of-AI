@@ -1,0 +1,9 @@
+[submodule "AI_Pokemon_Classification_Final"]
+	path = AI_Pokemon_Classification_Final
+	url = https://github.com/wildinry/Pokemon-Type-Classification-from-Image-ACO494_Final
+[submodule "AI_WumpusWorld_Project"]
+	path = AI_WumpusWorld_Project
+	url = https://github.com/wildinry/WumpusWorld_ACO494
+[submodule "MNIST_Digit_Recognition_Project"]
+	path = MNIST_Digit_Recognition_Project
+	url = https://github.com/wildinry/CustomMNIST-Digit-Recognition-ACO494
